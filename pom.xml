@@ -372,6 +372,11 @@
             <version>${junit.version}</version>
         </dependency>
 
+		<dependency>
+		  <groupId>com.oracle</groupId>
+		  <artifactId>ojdbc6</artifactId>
+		  <version>12.1.0.2</version>
+		</dependency>
 
         <dependency>
             <groupId>maven</groupId>

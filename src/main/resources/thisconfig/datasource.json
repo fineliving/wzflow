@@ -7,7 +7,7 @@ var ioc = {
 		fields:{
 			url:"jdbc:mysql://127.0.0.1:3306/wzflow?useUnicode=true&characterEncoding=utf8",
 			username:"root",
-			password:"root",
+			password:"root1234",
 			maxActive:200,
 			testWhileIdle:true,
 			validationQuery:"SELECT 1",
